@@ -1,0 +1,19 @@
+{
+    "api": {
+        "baseUrl": "https://cindo.co/",
+        "timeout": 30000
+    },
+    "colorPrimary": "#217651",
+    "appleColor": "white",
+    "loginScreenStartApp": {
+        "enable": true,
+        "skipButtonText": "Lewati",
+        "title": "WilCity Application",
+        "text": "Build any type of directory with the fastest and easiest for WordPress"
+    },
+    "googleLogin": {
+        "usesGoogleSignIn": true,
+        "iosStandaloneAppClientId": "194102947688-91p6h47dm684pj1nupvks7hcu9mb5ffj.apps.googleusercontent.com",
+        "androidStandaloneAppClientId": "194102947688-43umicsfbdht14vf7bhfq3ht0a5jd3ol.apps.googleusercontent.com"
+    }
+}

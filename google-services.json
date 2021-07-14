@@ -1,0 +1,32 @@
+{
+    "project_info": {
+        "project_number": "300179608177",
+        "firebase_url": "https://concise-atlas-217710.firebaseio.com",
+        "project_id": "concise-atlas-217710",
+        "storage_bucket": "concise-atlas-217710.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:300179608177:android:fd4468f08e51de9db2c1d0",
+            "android_client_info": {
+                "package_name": "com.wiloke.wilcity"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "300179608177-ldhj2to67fup7u6788jfi71rg3l4iea8.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyDBvNh6-fvkc4c5UpoXJ3fuTlP8kPG_M3Y"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "300179608177-ldhj2to67fup7u6788jfi71rg3l4iea8.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
