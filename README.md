@@ -1,2 +1,2 @@
-# WilcityApp
-# React native application for wilcity wp theme
+# CINDO
+# React native application for CINDO
